@@ -1,0 +1,6 @@
+streamlit
+mysql-connector-python
+groq
+python-dotenv
+bcrypt
+pyotp

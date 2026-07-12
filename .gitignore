@@ -1,0 +1,32 @@
+# ==========================================
+# 🛑 SENSITIVE DATA & CREDENTIALS (MUST HIDE)
+# ==========================================
+.env
+
+# ==========================================
+# 🐍 PYTHON VIRTUAL ENVIRONMENT (env folder)
+# ==========================================
+env/
+venv/
+ENV/
+
+# ==========================================
+# 🧠 PYTHON CACHE FILES
+# ==========================================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ==========================================
+# 🎨 STREAMLIT SPECIFIC (Optional but recommended)
+# ==========================================
+.streamlit/config.toml
+.streamlit/secrets.toml
+
+# ==========================================
+# 💻 OS/IDE SPECIFIC (VS Code, Mac, Windows)
+# ==========================================
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
